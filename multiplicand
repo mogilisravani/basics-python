@@ -1,0 +1,4 @@
+print(******multiplication table******)
+while True:
+    n = int(input("Enter a number:"))
+    if(nn==0)
